@@ -5,7 +5,7 @@ Basic ATM application in C++
 You have to know about 🙅‍♀️  
 👉 Do while Loop in C++  
 👉 Switch statements in C++  
-👉 Functiona in C++
+👉 Functions in C++
 
 This application has basic functionalities like 👉  
 👀 You can check your current balance  
